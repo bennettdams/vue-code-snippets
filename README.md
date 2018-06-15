@@ -1,4 +1,4 @@
-# VUE CODE SNIPPETS
+# :zap: VUE CODE SNIPPETS :zap:
 
 *Curated collection of Vue code snippets/examples/samples for common use cases*
 
