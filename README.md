@@ -1,10 +1,15 @@
 # Vue code snippets
-## Collection of Vue code snippets/examples/samples for common use cases
+## Curated collection of Vue code snippets/examples/samples for common use cases
 
 Tired of just another library for a small component you're writing?
 The NPM mess is big enough already?
 
-Fear not, let's collect handy Vue code snippets for everybody
+Fear not, let's collect handy Vue code snippets for everybody.
+
+If you want to add your snippet, feel free to send it or create a pull request.
+
+Every submission will be marked with his author.
+
 
 # [UTILITY](./utility)
 
