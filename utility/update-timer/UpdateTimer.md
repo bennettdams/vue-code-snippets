@@ -2,7 +2,7 @@
 ## Light counter to use when you want to display an automatic update time
 
 ## Props
-Property | Type | Note
+Name | Type | Note
 --- | --- | --- |
 updateRate | Number | /
 
