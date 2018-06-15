@@ -5,3 +5,7 @@ Tired of just another library for a small component you're writing?
 The NPM mess is big enough already?
 
 Fear not, let's collect handy Vue code snippets for everybody
+
+# [UTILITY](./utility)
+
+## [Update timer](./utility/update-timer/UpdateTimer.md)
