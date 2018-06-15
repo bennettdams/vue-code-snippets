@@ -26,6 +26,11 @@ A fixed sidebar, which converts to a top navbar on mobile
 # [UTILITY](./utility)
 
 ## [Update timer](./utility/update-timer/UpdateTimer.md)
+Basic counter to use when you want to display an automatic update time
+
+
+
+
 
 ---
 > further snippets
