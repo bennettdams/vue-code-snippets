@@ -15,7 +15,7 @@ Your submission will be marked with you as the author (if you wish).
 
 
 
-# [COMPONENTS](./utility)
+# COMPONENTS
 
 ## [Sidebar / Navbar top responsive](./components/navigation/sidebar-navbar-responsive/SidebarNavbarResponsive.md)
 A fixed sidebar, which converts to a top navbar on mobile
@@ -23,7 +23,7 @@ A fixed sidebar, which converts to a top navbar on mobile
 *written for Bootstrap 4*
 
 
-# [UTILITY](./utility)
+# UTILITY
 
 ## [Update timer](./utility/update-timer/UpdateTimer.md)
 Basic counter to use when you want to display an automatic update time
