@@ -8,7 +8,7 @@ Fear not, let's collect handy Vue code snippets for everybody.
 
 If you want to add your snippet, feel free to send it or create a pull request.
 
-Every submission will be marked with his author.
+Every submission will be marked with it's author.
 
 
 # [UTILITY](./utility)
