@@ -3,7 +3,7 @@
 *Curated collection of Vue code snippets/examples/samples for common use cases*
 
 ### The goal is to show snippets which are clean (no naming fuzz)
-### and vanilla Vue at best
+### and _vanilla_ Vue at best
 
 
 Tired of just another library for a small component you're writing?
