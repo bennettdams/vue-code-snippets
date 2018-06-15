@@ -1,5 +1,5 @@
 # Update timer component
-## Light counter to use when you want to display an automatic update time
+## Basic counter to use when you want to display an automatic update time
 
 ## Props
 Name | Type | Note
